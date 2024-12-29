@@ -2,6 +2,14 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "@@@@";
+    //std::cout << ¡°@@@@¡±;
+    /*
+    std::cout << "@@@@" << std::endl;
+    std::cout << "main()" << std::endl;
+    std::cout << "std::cout << \"@@@@\";";
+
+    */
+    return 0;
 }
 

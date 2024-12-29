@@ -13,13 +13,403 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\LV01">
+      <UniqueIdentifier>{f4930940-b1d7-4297-bd70-2c7762deafc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV02">
+      <UniqueIdentifier>{c4491478-9cfa-4a23-9c45-6f075d706340}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV03">
+      <UniqueIdentifier>{8bd56cb9-a06d-466a-9404-ad0c01f02d00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV04">
+      <UniqueIdentifier>{6ebfe09f-476f-4628-820b-22b0e5d0daa8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV05">
+      <UniqueIdentifier>{080cb35a-9044-411f-abf9-8e743d8b3cd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV06">
+      <UniqueIdentifier>{15429ae3-f95a-4a6b-9cfc-c283a5c49406}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV07">
+      <UniqueIdentifier>{b8a33d6a-5451-4f44-af42-91a6c97d0bd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV08">
+      <UniqueIdentifier>{39059037-9862-4a69-9eed-2f7e9363534e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV09">
+      <UniqueIdentifier>{4a808230-b6c5-435f-95f7-63975a9f4afa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV12">
+      <UniqueIdentifier>{252cfc70-00a8-4053-a222-8d6b1e15b32d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV10-11">
+      <UniqueIdentifier>{e1883dae-71d4-4a0d-9a35-c938dc693c6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV13">
+      <UniqueIdentifier>{d74db1db-0310-47ce-8cc3-787af4cb5b7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV14">
+      <UniqueIdentifier>{c42ee4bd-517c-4a9e-8dd9-90c144e0d873}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV15">
+      <UniqueIdentifier>{07505c70-0fa3-4e07-acb9-57d7bffcb91f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\복습문제">
+      <UniqueIdentifier>{7b753ded-c9b5-4fcd-8486-f74f1b441bff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\훈련문제">
+      <UniqueIdentifier>{d8047b2a-e0ed-464e-8d70-5d3234f5044b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="lv01_01.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\LV01</Filter>
     </ClCompile>
     <ClCompile Include="lv01_02.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_03.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_04.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_05.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_06.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_07.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_08.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_09.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_10.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_11.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_12.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_13.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv01_14.cpp">
+      <Filter>소스 파일\LV01</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_01.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_02.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_03.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_04.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_05.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_06.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_07.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_08.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_09.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_10.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_11.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv02_12.cpp">
+      <Filter>소스 파일\LV02</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_01.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_02.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_03.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_04.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_05.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_06.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_07.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_08.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_09.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_10.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_11.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_12.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_13.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_14.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv03_15.cpp">
+      <Filter>소스 파일\LV03</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_01.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_02.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_03.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_04.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_05.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_06.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_07.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_08.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_09.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_10.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_11.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv04_12.cpp">
+      <Filter>소스 파일\LV04</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0401.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0402.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0403.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0404.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0405.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0406.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0407.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0408.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0409.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_01.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_02.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_03.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_04.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_05.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_06.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_07.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_08.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_09.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_10.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_11.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_12.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv05_13.cpp">
+      <Filter>소스 파일\LV05</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_01.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_02.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_03.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_04.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_05.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_06.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_07.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_08.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_09.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_10.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv06_11.cpp">
+      <Filter>소스 파일\LV06</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_01.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_02.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_03.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_04.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_05.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_06.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_07.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_08.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_09.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_10.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_11.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv07_12.cpp">
+      <Filter>소스 파일\LV07</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0701.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0702.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0703.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0704.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0705.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0706.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv0707.cpp">
+      <Filter>소스 파일\훈련문제</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_01.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_02.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_03.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_04.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_05.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_06.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_07.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_08.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_09.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_10.cpp">
+      <Filter>소스 파일\LV08</Filter>
+    </ClCompile>
+    <ClCompile Include="lv08_11.cpp">
+      <Filter>소스 파일\LV08</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

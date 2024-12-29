@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 
 using namespace std;
 
@@ -6,7 +6,7 @@ int main()
 
 {
 
-	cout << "HELLO WORLD";
+	cout << "5 4 3 2 1 GO!";
 
 	return 0;
 
